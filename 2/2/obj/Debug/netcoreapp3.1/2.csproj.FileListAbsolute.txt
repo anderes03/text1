@@ -1,0 +1,17 @@
+C:\Users\Ander\source\repos\2\2\bin\Debug\netcoreapp3.1\2.exe
+C:\Users\Ander\source\repos\2\2\bin\Debug\netcoreapp3.1\2.deps.json
+C:\Users\Ander\source\repos\2\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.json
+C:\Users\Ander\source\repos\2\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.dev.json
+C:\Users\Ander\source\repos\2\2\bin\Debug\netcoreapp3.1\2.dll
+C:\Users\Ander\source\repos\2\2\bin\Debug\netcoreapp3.1\2.pdb
+C:\Users\Ander\source\repos\2\2\obj\Debug\netcoreapp3.1\2.csprojAssemblyReference.cache
+C:\Users\Ander\source\repos\2\2\obj\Debug\netcoreapp3.1\_2.Form1.resources
+C:\Users\Ander\source\repos\2\2\obj\Debug\netcoreapp3.1\_2.Form2.resources
+C:\Users\Ander\source\repos\2\2\obj\Debug\netcoreapp3.1\2.csproj.GenerateResource.cache
+C:\Users\Ander\source\repos\2\2\obj\Debug\netcoreapp3.1\2.AssemblyInfoInputs.cache
+C:\Users\Ander\source\repos\2\2\obj\Debug\netcoreapp3.1\2.AssemblyInfo.cs
+C:\Users\Ander\source\repos\2\2\obj\Debug\netcoreapp3.1\2.csproj.CoreCompileInputs.cache
+C:\Users\Ander\source\repos\2\2\obj\Debug\netcoreapp3.1\2.dll
+C:\Users\Ander\source\repos\2\2\obj\Debug\netcoreapp3.1\2.pdb
+C:\Users\Ander\source\repos\2\2\obj\Debug\netcoreapp3.1\2.genruntimeconfig.cache
+C:\Users\Ander\source\repos\2\2\obj\Debug\netcoreapp3.1\_2.Form3.resources
